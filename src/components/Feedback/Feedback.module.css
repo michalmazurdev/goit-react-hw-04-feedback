@@ -1,0 +1,15 @@
+.buttonsContainer {
+  display: flex;
+  gap: 20px;
+}
+.button {
+  background-color: transparent;
+  border: 1px black solid;
+  width: 5rem;
+  height: 2.5rem;
+  border-radius: 6%;
+  font-size: 1rem;
+}
+.button:hover {
+  background-color: lightgray;
+}
